@@ -1,0 +1,14 @@
+[
+    {
+        "reponame": "first repository",
+        "repodescription": "This is my first repo"
+    },
+    {
+        "reponame": "second repository",
+        "repodescription": "This is my second repo"
+    },
+    {
+        "reponame": "Third Repository",
+        "repodescription": "This is my third repo"
+    }
+]

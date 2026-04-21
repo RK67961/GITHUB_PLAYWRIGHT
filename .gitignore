@@ -1,0 +1,23 @@
+
+# Secrets
+.env
+auth.json
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+
+# Reports and Logs
+extent-report/
+allure-results/
+logs/
+screenshots/
+test-results/
+playwright-report/
+
+# IDE
+.vscode/
